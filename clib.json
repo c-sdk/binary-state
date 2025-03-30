@@ -1,6 +1,6 @@
 {
   "name": "binary-state",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "repo": "c-sdk/binary-state",
   "description": "A collection of names for binary states to improve readability.",
   "license": "unlicense",
