@@ -1,0 +1,9 @@
+{
+  "name": "binary-state",
+  "version": "0.1.0",
+  "repo": "c-sdk/binary-state",
+  "description": "A collection of names for binary states to improve readability.",
+  "license": "unlicense",
+  "keywords": ["binary state", "toggleable", "switchable", "enableable", "activatable"],
+  "src": ["./binary_state.h"]
+}
