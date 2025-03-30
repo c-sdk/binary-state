@@ -11,7 +11,7 @@ typedef enum binary_state_t switchable_t;
 typedef enum binary_state_t activatable_t;
 typedef enum binary_state_t enableable_t;
 
-static inline void toggle(binary_state_t *b) {
+static inline void toggle(enum binary_state_t *b) {
   *b = (*b == BINARY_ON) ? BINARY_OFF : BINARY_ON;
 }
 
